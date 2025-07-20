@@ -1,0 +1,17 @@
+.download-btn {
+    background: #FFD700; /* Bright yellow */
+    color: #000; /* Black text for contrast */
+    padding: 12px 30px; /* Adjust padding for shape */
+    border: none;
+    border-radius: 25px; /* Pill-shaped curve (adjust for roundness) */
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold; /* Optional: Bold text */
+    transition: background 0.3s, transform 0.2s;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  }
+  
+  .download-btn:hover {
+    background: #FFC000; /* Slightly darker yellow on hover */
+    transform: scale(1.05); /* Small zoom effect */
+  }

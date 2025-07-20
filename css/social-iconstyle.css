@@ -1,0 +1,9 @@
+.home-sci a {
+    font-size: 2.5rem;
+    margin: 0 10px;
+    color: #f4e223;
+}
+
+.home-sci a:hover {
+    color: var(--yellow);
+}
