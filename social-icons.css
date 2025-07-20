@@ -1,0 +1,9 @@
+.social-icons a {
+    font-size: 2.5rem;
+    margin: 0 10px;
+    color: #f1dc16;
+}
+
+.home-sci a:hover {
+    color: var(--blue);
+}
